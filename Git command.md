@@ -28,3 +28,15 @@ git reset --hard HEAD^(HEAD-100; commit id)
 
 ![image-20191022132822745](Git command.assets/image-20191022132822745.png)
 
+第一次修改 -> `git add`-> 第二次修改 -> `git add`-> `git commit`
+
+
+
+
+
+
+
+git rm file
+
+git commit -m 'comment'
+
